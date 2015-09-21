@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: FacilitaProject
+        psr4_prefix: FacilitaProject
+        src_path: app

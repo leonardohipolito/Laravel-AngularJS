@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+/resources/bower_components
+sftp-config.json
+projects.sublime-project
+projects.sublime-workspace
+.idea/
